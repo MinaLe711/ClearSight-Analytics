@@ -1,0 +1,8 @@
+{
+  "name": "ClearSight Analytics",
+  "description": "Interactive data analytics dashboard for exploring CSV datasets with adaptive visualizations, dynamic filtering, schema inspection, and evidence-backed AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
